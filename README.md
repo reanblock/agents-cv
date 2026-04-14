@@ -9,7 +9,7 @@ sdk_version: 6.12.0
 
 ## Live Version
 
-This has been deployed to Huggingface Spaces [here]().
+This has been deployed to Huggingface Spaces [here](https://huggingface.co/spaces/reanblock/career_conversation).
 
 ## Deploy
 

@@ -1,0 +1,6 @@
+.venv
+.env
+.claude
+logs
+uv.lock
+.python-version
