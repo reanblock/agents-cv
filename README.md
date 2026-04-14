@@ -14,6 +14,8 @@ This has been deployed to Huggingface Spaces [here](https://huggingface.co/space
 
 ## Deploy
 
+Run the following code to deploy this to a Hugging Face Space:
+
 ```bash
 uv tool install 'huggingface_hub[cli]
 hf auth login --token YOUR_TOKEN_HERE
@@ -21,6 +23,8 @@ hf auth whoami
 ```
 
 ## Install & Run
+
+Run the following code to run this locally.
 
 ```bash
 uv run main.py
