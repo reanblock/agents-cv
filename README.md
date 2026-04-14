@@ -6,6 +6,7 @@ sdk_version: 6.12.0
 ---
 # Agent CV: My own agentic professional version of me
 
+Taken from Agents course lab [here](https://github.com/ed-donner/agents/blob/main/1_foundations/4_lab4.ipynb).
 
 ## Live Version
 
